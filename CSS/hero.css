@@ -3,6 +3,7 @@ body{
 	font-family: helvetica, arial, sans-serif;
 	font-size: 20px;
 	line-height: 30px;
+	background-color: beige;
 }
 header{
 	background-color: orange;
@@ -20,7 +21,7 @@ header h1{
 header img{
 	border-radius: 170px;
 	width: 300px;
-	border: 20px solid blue;
+	border: 20px solid white;
 }
 main{
 	max-width: 800px;
